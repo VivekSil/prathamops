@@ -1,6 +1,6 @@
 # Prathamops
 
-Prathamops is the on-device first aid assistant powered by finetuned Gemma3n models running on ollama
+Prathamops is the on-device first aid multilingual assistant powered by finetuned Gemma3n models running on ollama
 
 Model: 🤗 <a href="https://huggingface.co/collections/viveksil/prathamops-68926bbee736c07ba081993d">Hugging Face</a> <br>
 <br>
