@@ -22,5 +22,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Backend
 ### Setup
-Run `pip install -r requirements.txt`
-    `uvicorn backend/main:app --host 0.0.0.0 --port 8000`
+1. Run `pip install -r requirements.txt` <br>
+2. Run `uvicorn backend/main:app --host 0.0.0.0 --port 8000`
