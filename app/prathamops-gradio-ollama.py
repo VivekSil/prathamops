@@ -25,7 +25,6 @@ header_html = """
   body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #f5f9f8;
-  background-image: url('/home/viveks/Desktop/experiments/g3n/ollama/app/img1.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
