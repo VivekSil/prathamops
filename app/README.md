@@ -10,4 +10,4 @@ Both the apps use ollama for model inference
 2. Run `ollama serve`
 3. Run `ollama pull ollama run viveksil/prathamops-en-E2B`
 
-This will ensure that the models is pulled and ready for inference
+This will ensure that the model is pulled and ready for inference
